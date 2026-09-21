@@ -63,7 +63,7 @@ export default function Home() {
       <section className="section-paper">
         <div className="wrap">
           <div className="meaning-block">
-            <p className="script-head">More than a burger stand.</p>
+            <h2 className="script-head">More than a burger stand.</h2>
             <p>
               Big Tomy&apos;s is more than just a food stand—we are a family. We treat our
               community like family because you have always treated us like one.

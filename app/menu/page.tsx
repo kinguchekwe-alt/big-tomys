@@ -297,14 +297,14 @@ export default function Menu() {
         >
           <div className="menu-cat-head">
             <div>
-              <p className="script-head">{activeCategory.title}</p>
+              <h2 className="script-head">{activeCategory.title}</h2>
               {activeCategory.note && <p className="menu-cat-note">{activeCategory.note}</p>}
             </div>
           </div>
 
           {activeCategory.groups.map((group, gi) => (
             <div key={gi}>
-              {group.subhead && <p className="menu-subhead">{group.subhead}</p>}
+              {group.subhead && <h3 className="menu-subhead">{group.subhead}</h3>}
               {group.note && <p className="menu-cat-note" style={{ marginBottom: 10 }}>{group.note}</p>}
               <ul className="menu-list">
                 {group.items.map((item) => (

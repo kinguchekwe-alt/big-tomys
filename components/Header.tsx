@@ -17,6 +17,9 @@ export default function Header() {
 
   return (
     <header className="site-header">
+      <a href="#main-content" className="skip-link">
+        Skip to main content
+      </a>
       <div className="wrap">
         <Link href="/" className="wordmark">
           <span className="wordmark-text">
