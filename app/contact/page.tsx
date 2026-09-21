@@ -39,7 +39,7 @@ export default function Contact() {
                 </tr>
                 <tr>
                   <td>Hours</td>
-                  <td>Open Daily: 7:00 AM – 12:00 AM</td>
+                  <td>Open Daily: 5:00 AM – 12:00 AM</td>
                 </tr>
                 <tr>
                   <td>Service</td>

@@ -110,7 +110,7 @@ export default function Home() {
                 Los Angeles, CA 90064
               </address>
               <span className="phone">(310) 479-0601</span>
-              <p className="blurb">Open Daily: 7:00 AM – 12:00 AM. Outdoor seating, takeout available, no reservations.</p>
+              <p className="blurb">Open Daily: 5:00 AM – 12:00 AM. Outdoor seating, takeout available, no reservations.</p>
               <div className="card-actions">
                 <Link className="btn btn-outline btn-sm" href="/menu">
                   Menu
